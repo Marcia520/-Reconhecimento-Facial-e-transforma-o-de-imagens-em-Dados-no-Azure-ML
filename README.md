@@ -1,6 +1,4 @@
-# *Visão Computacional*
-
-## [DIO](https://www.dio.me/) ***Reconhecimento Facial e Transformação de Imagens em Dados no Azure ML***
+## [DIO - Reconhecimento Facial e Transformação de Imagens em Dados no Azure ML](https://www.dio.me/) 
 
 ### 1. Reconhecimento Facial e geração de legendas para uma imagem
 
